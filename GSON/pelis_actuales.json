@@ -1,0 +1,68 @@
+[
+  {
+    "p-titulo": "El atlas de las nubes",
+    "p-año": 2012,
+    "p-direccion": "Lana Wachowski, Tom Tykwer, Andy Wachowski",
+    "p-duracion-minutos": 172,
+    "created_at": "Oct 25, 2023 5:27:43 PM",
+    "interpretes": [
+      {
+        "gender": "H",
+        "nombre": "Tom Hanks",
+        "fechaNacimiento": {
+          "year": 1956,
+          "month": 8,
+          "dayOfMonth": 9,
+          "hourOfDay": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      {
+        "gender": "M",
+        "nombre": "Halle Berry",
+        "fechaNacimiento": {
+          "year": 1966,
+          "month": 7,
+          "dayOfMonth": 14,
+          "hourOfDay": 0,
+          "minute": 0,
+          "second": 0
+        }
+      }
+    ]
+  },
+  {
+    "p-titulo": "La red social",
+    "p-año": 2010,
+    "p-direccion": "David Fincher",
+    "p-duracion-minutos": 120,
+    "created_at": "Oct 25, 2023 5:27:43 PM",
+    "interpretes": [
+      {
+        "gender": "M",
+        "nombre": "Jesse Eisenberg",
+        "fechaNacimiento": {
+          "year": 1983,
+          "month": 9,
+          "dayOfMonth": 5,
+          "hourOfDay": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      {
+        "gender": "H",
+        "nombre": "Andrew Garfield",
+        "fechaNacimiento": {
+          "year": 1983,
+          "month": 7,
+          "dayOfMonth": 20,
+          "hourOfDay": 0,
+          "minute": 0,
+          "second": 0
+        }
+      }
+    ]
+  }
+]

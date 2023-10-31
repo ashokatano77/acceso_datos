@@ -1,0 +1,167 @@
+[
+  {
+    "p-titulo": "Titanic",
+    "p-año": 1997,
+    "p-direccion": "James Cameron",
+    "p-duracion-minutos": 195,
+    "created_at": "Oct 25, 2023 5:27:43 PM",
+    "interpretes": [
+      {
+        "gender": "M",
+        "nombre": "Leonardo DiCaprio",
+        "fechaNacimiento": {
+          "year": 1974,
+          "month": 11,
+          "dayOfMonth": 11,
+          "hourOfDay": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      {
+        "gender": "F",
+        "nombre": "Kate Winslet",
+        "fechaNacimiento": {
+          "year": 1975,
+          "month": 10,
+          "dayOfMonth": 5,
+          "hourOfDay": 0,
+          "minute": 0,
+          "second": 0
+        }
+      }
+    ]
+  },
+  {
+    "p-titulo": "The Matrix",
+    "p-año": 1999,
+    "p-direccion": "The Wachowskis",
+    "p-duracion-minutos": 136,
+    "created_at": "Oct 25, 2023 5:27:43 PM",
+    "interpretes": [
+      {
+        "gender": "M",
+        "nombre": "Keanu Reeves",
+        "fechaNacimiento": {
+          "year": 1964,
+          "month": 9,
+          "dayOfMonth": 2,
+          "hourOfDay": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      {
+        "gender": "F",
+        "nombre": "Carrie-Anne Moss",
+        "fechaNacimiento": {
+          "year": 1967,
+          "month": 8,
+          "dayOfMonth": 21,
+          "hourOfDay": 0,
+          "minute": 0,
+          "second": 0
+        }
+      }
+    ]
+  },
+  {
+    "p-titulo": "Indiana Jones and the Last Crusade",
+    "p-año": 1989,
+    "p-direccion": "Steven Spielberg",
+    "p-duracion-minutos": 127,
+    "created_at": "Oct 25, 2023 5:27:43 PM",
+    "interpretes": [
+      {
+        "gender": "M",
+        "nombre": "Harrison Ford",
+        "fechaNacimiento": {
+          "year": 1942,
+          "month": 7,
+          "dayOfMonth": 13,
+          "hourOfDay": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      {
+        "gender": "M",
+        "nombre": "Sean Connery",
+        "fechaNacimiento": {
+          "year": 1930,
+          "month": 8,
+          "dayOfMonth": 25,
+          "hourOfDay": 0,
+          "minute": 0,
+          "second": 0
+        }
+      }
+    ]
+  },
+  {
+    "p-titulo": "Iron Man",
+    "p-año": 2008,
+    "p-direccion": "Jon Favreau",
+    "p-duracion-minutos": 126,
+    "created_at": "Oct 25, 2023 5:27:43 PM",
+    "interpretes": [
+      {
+        "gender": "M",
+        "nombre": "Robert Downey Jr.",
+        "fechaNacimiento": {
+          "year": 1965,
+          "month": 4,
+          "dayOfMonth": 4,
+          "hourOfDay": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      {
+        "gender": "F",
+        "nombre": "Gwyneth Paltrow",
+        "fechaNacimiento": {
+          "year": 1972,
+          "month": 9,
+          "dayOfMonth": 27,
+          "hourOfDay": 0,
+          "minute": 0,
+          "second": 0
+        }
+      }
+    ]
+  },
+  {
+    "p-titulo": "The Shawshank Redemption",
+    "p-año": 1994,
+    "p-direccion": "Frank Darabont",
+    "p-duracion-minutos": 142,
+    "created_at": "Oct 25, 2023 5:27:43 PM",
+    "interpretes": [
+      {
+        "gender": "M",
+        "nombre": "Tim Robbins",
+        "fechaNacimiento": {
+          "year": 1958,
+          "month": 10,
+          "dayOfMonth": 16,
+          "hourOfDay": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      {
+        "gender": "M",
+        "nombre": "Morgan Freeman",
+        "fechaNacimiento": {
+          "year": 1937,
+          "month": 6,
+          "dayOfMonth": 1,
+          "hourOfDay": 0,
+          "minute": 0,
+          "second": 0
+        }
+      }
+    ]
+  }
+]
